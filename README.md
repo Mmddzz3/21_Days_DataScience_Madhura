@@ -1,5 +1,6 @@
 # 21_Days_DataScience_Madhura
-Day 1: Learning more about Data Frames in Python <br/>
+Day 1: Explored more about Data Frames in Python and implemented the same.
+
 Day 2: Learning and implementing Matplotlib 
 - [x] [Documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html/)
 - [x] [Tutorial](https://matplotlib.org/stable/tutorials/index.html)
