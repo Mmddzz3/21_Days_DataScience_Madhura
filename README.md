@@ -7,5 +7,5 @@ Day 2: Learning and implementing Matplotlib
 
 
 Day 3: Learning and implementing Seaborn<br/>
-- [Documentation](https://seaborn.pydata.org/#:~:text=Seaborn%20is%20a%20Python%20data,can%20read%20the%20introductory%20notes.).<br/>
-- [Tutorial](https://seaborn.pydata.org/tutorial.html)<br/>
+- [x] [Documentation](https://seaborn.pydata.org/#:~:text=Seaborn%20is%20a%20Python%20data,can%20read%20the%20introductory%20notes.).<br/>
+- [x] [Tutorial](https://seaborn.pydata.org/tutorial.html)<br/>
