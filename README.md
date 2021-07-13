@@ -19,3 +19,6 @@ Day 5 : Read about Linear Regression
 
 Day 6 : Read about Multiple Linear Regression
 - [x] [An introduction to multiple linear regression](https://www.scribbr.com/statistics/multiple-linear-regression/)
+
+Day 7 : Implemented Multiple Linear Regression
+- [x] Referred - [Implementing Multiple Linear Regression from Scratch in Python](https://faun.pub/implementing-multiple-linear-regression-from-scratch-in-python-f5d84d4935bb)
