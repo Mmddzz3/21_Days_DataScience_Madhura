@@ -24,3 +24,5 @@ Day 7 : Implemented Multiple Linear Regression
 - [x] Referred - [Implementing Multiple Linear Regression from Scratch in Python](https://faun.pub/implementing-multiple-linear-regression-from-scratch-in-python-f5d84d4935bb)
 
 Day 8 :  Fake News Detection (Project)
+
+Day 9 : Detecting Parkinson’s Disease with XGBoost (Project)
