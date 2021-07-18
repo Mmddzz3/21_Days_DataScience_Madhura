@@ -26,3 +26,6 @@ Day 7 : Implemented Multiple Linear Regression
 Day 8 :  Fake News Detection (Project)
 
 Day 9 : Detecting Parkinson’s Disease with XGBoost (Project)
+
+Day 10 : Credit Card Fraud Detection (Project)
+- [x] Dataset used : [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
