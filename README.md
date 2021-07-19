@@ -29,3 +29,5 @@ Day 9 : Detecting Parkinson’s Disease with XGBoost (Project)
 
 Day 10 : Credit Card Fraud Detection (Project)
 - [x] Dataset used : [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+
+Day 11 : Credit Card Fraud Detection (Project)
