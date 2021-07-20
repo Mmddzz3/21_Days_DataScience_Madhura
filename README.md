@@ -31,3 +31,6 @@ Day 10 : Credit Card Fraud Detection (Project)
 - [x] Dataset used : [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 Day 11 : Credit Card Fraud Detection (Project)
+
+Day 12 : Read about lifecycle of machine learning models
+- [x] Referred : [Lifecycle of machine learning models](https://www.oracle.com/in/a/ocom/docs/data-science-lifecycle-ebook.pdf)
