@@ -34,3 +34,6 @@ Day 11 : Credit Card Fraud Detection (Project)
 
 Day 12 : Read about lifecycle of machine learning models
 - [x] Referred : [Lifecycle of machine learning models](https://www.oracle.com/in/a/ocom/docs/data-science-lifecycle-ebook.pdf)
+
+Day 13: Read about Data Wranggling
+- [x] referred: [How to Wrangle Your First Data Set: A Beginner’s Guide](https://www.springboard.com/blog/data-science/beginners-guide-wrangling-data/)
