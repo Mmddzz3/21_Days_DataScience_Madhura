@@ -37,3 +37,6 @@ Day 12 : Read about lifecycle of machine learning models
 
 Day 13: Read about Data Wranggling
 - [x] referred: [How to Wrangle Your First Data Set: A Beginner’s Guide](https://www.springboard.com/blog/data-science/beginners-guide-wrangling-data/)
+
+Day 14 : Read about Logistic Regression
+- [x] Referred - [Understanding Logistic Regression](https://www.geeksforgeeks.org/understanding-logistic-regression/)
