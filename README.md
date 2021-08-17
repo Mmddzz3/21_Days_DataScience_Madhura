@@ -43,3 +43,12 @@ Day 14 : Read about Logistic Regression
 
 Day 15 : Read about Machine Learning in Cloud
 - [x] Referred - [Getting Started with Machine Learning in the Cloud](https://www.oracle.com/in/a/ocom/docs/machine-learning-goes-to-the-cloud-ebook.pdf)
+
+Day 16 : DevOps for ML
+- [x] Referred : [Why We Need DevOps for ML Data](https://www.tecton.ai/blog/devops-ml-data/)
+
+Day 17 :
+Day 18 :
+Day 19 :
+Day 20 :
+Day 21 :
