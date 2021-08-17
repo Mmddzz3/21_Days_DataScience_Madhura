@@ -47,8 +47,13 @@ Day 15 : Read about Machine Learning in Cloud
 Day 16 : DevOps for ML
 - [x] Referred : [Why We Need DevOps for ML Data](https://www.tecton.ai/blog/devops-ml-data/)
 
-Day 17 :
+Day 17 : Data Ethics
+- [x] Referred : [5 PRINCIPLES OF DATA ETHICS FOR BUSINESS](https://online.hbs.edu/blog/post/data-ethics)
+
 Day 18 :
+
 Day 19 :
+
 Day 20 :
+
 Day 21 :
